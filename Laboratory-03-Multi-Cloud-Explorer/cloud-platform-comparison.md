@@ -28,3 +28,13 @@ Google Cloud Platform is particularly strong in Artificial Intelligence and Kube
 
 I would personally choose Microsoft Azure because many schools and businesses already use Microsoft products. I think learning Azure would be useful because it combines cloud computing with familiar technologies such as Windows Server, Microsoft 365, and identity management.
 
+## Equivalent Cloud Services
+
+| Service Category    | AWS        | Azure                          | GCP                            |
+| ------------------- | ---------- | ------------------------------ | ------------------------------ |
+| Virtual Machine     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| Object Storage      | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| Identity Management | AWS IAM    | Microsoft Entra ID             | Cloud IAM                      |
+| SQL Database        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| Kubernetes          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
