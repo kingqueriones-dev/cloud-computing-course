@@ -59,3 +59,13 @@ AWS is a suitable platform for the global e-commerce company because it provides
 * Amazon RDS
 * Amazon CloudFront
 
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | Google Cloud Platform | Good for modern applications, scalable workloads, and managed cloud services. |
+| Enterprise Organization | Microsoft Azure | Strong for enterprise systems, hybrid environments, and Microsoft-based organizations. |
+| Microsoft Environment | Microsoft Azure | Best suited for Windows Server, Microsoft 365, and Active Directory integration. |
+| AI / Machine Learning | Google Cloud Platform | Provides strong AI and machine learning tools such as Vertex AI and Cloud TPU. |
+| Kubernetes Deployment | Google Cloud Platform | Offers Google Kubernetes Engine (GKE) for managing containerized applications. |
+| Global Web Application | AWS | Provides broad global infrastructure, load balancing, and automatic scaling services. |
